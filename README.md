@@ -1,6 +1,26 @@
 # flutter_basic
 
-A new Flutter project.
+A Flutter project for beginners with example.
+
+## Examples About
+
+- Basic Widgets and their usage.
+- Object Passing
+- Basic UI/ListViews
+- REST api usage
+- fetching data from internet
+- future/streams
+- basic oops with dart
+- splash screen
+- navigation from one screen to another
+- fetching from internet and displaying list
+  - todo app
+  - album app
+- stopwatch app
+- saving and loading preferences
+- packages like http,shared_preferences, provider
+- State Management using setState
+- State Management using Provider
 
 ## Getting Started
 
